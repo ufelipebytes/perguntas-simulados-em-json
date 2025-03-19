@@ -1,0 +1,302 @@
+[
+    {
+        "pergunta": "A linha simples cont\u00ednua de divis\u00e3o de fluxo, na cor amarela, dividindo a via em duas m\u00e3os direcionais indica que",
+        "opcoes": {
+            "A": "A) a ultrapassagem \u00e9 permitida",
+            "B": "B) os deslocamentos laterais s\u00e3o permitidos",
+            "C": "C) a ultrapassagem e os deslocamentos laterais s\u00e3o proibidos",
+            "D": "D) a ultrapassagem e os deslocamentos laterais s\u00e3o permitidos"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Ao ultrapassar bicicletas, a atitude que favorece a seguran\u00e7a do condutor \u00e9 guardar a dist\u00e2ncia m\u00ednima lateral do ciclista de",
+        "opcoes": {
+            "A": "A) 1 m (um metro)",
+            "B": "B) 50 cm (cinquenta cent\u00edmetros)",
+            "C": "C) 2,50 m (dois metros e cinquenta cent\u00edmetros)",
+            "D": "D) 1,50 m (um metro e cinquenta cent\u00edmetros)"
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Em via de m\u00e3o dupla, a circula\u00e7\u00e3o pela contram\u00e3o \u00e9:",
+        "opcoes": {
+            "A": "A) poss\u00edvel quando a sinaliza\u00e7\u00e3o permitir.",
+            "B": "B) poss\u00edvel quando for ultrapassar outro ve\u00edculo e, somente, pelo espa\u00e7o necess\u00e1rio a esse fim.",
+            "C": "C) poss\u00edvel quando houver pouca movimenta\u00e7\u00e3o de ve\u00edculos na via, em sentido contr\u00e1rio.",
+            "D": "D) sempre proibida."
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Jorge por possuir pouca experi\u00eancia na condu\u00e7\u00e3o de ve\u00edculos, n\u00e3o soube como reagir em uma situa\u00e7\u00e3o de emerg\u00eancia e acabou causando um acidente de tr\u00e2nsito. Nesse caso, a falha cometida por Jorge est\u00e1 relacionada \u00e0:",
+        "opcoes": {
+            "A": "A) precipita\u00e7\u00e3o",
+            "B": "B) imper\u00edcia",
+            "C": "C) imprud\u00eancia",
+            "D": "D) neglig\u00eancia"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Dirigindo por uma via urbana, a uma dist\u00e2ncia de cerca de 50m de um cruzamento, voc\u00ea percebe a luz amarela do sem\u00e1foro. Nessa situa\u00e7\u00e3o voc\u00ea deve:",
+        "opcoes": {
+            "A": "A) reduzir a velocidade do seu ve\u00edculo e completar a travessia do cruzamento.",
+            "B": "B) aumentar a velocidade do seu ve\u00edculo.",
+            "C": "C) diminuir a velocidade do seu ve\u00edculo.",
+            "D": "D) manter a aten\u00e7\u00e3o, reduzir a marcha do seu ve\u00edculo e parar."
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "O condutor que, na ultrapassagem por outro ve\u00edculo, mant\u00e9m ou diminui a velocidade do seu ve\u00edculo est\u00e1:",
+        "opcoes": {
+            "A": "A) dificultando a ultrapassagem, irritando o outro condutor e indo contra o bom conv\u00edvio social no tr\u00e2nsito",
+            "B": "B) provocando o outro condutor ao frear, agindo contra a conviv\u00eancia harmoniosa no tr\u00e2nsito",
+            "C": "C) retardando o fluxo de ve\u00edculos na via a seu favor, indo contra o bom conv\u00edvio no tr\u00e2nsito",
+            "D": "D) agindo com prud\u00eancia, facilitando a ultrapassagem e indo a favor do bom conv\u00edvio no tr\u00e2nsito"
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "As motocicletas em movimento s\u00e3o dif\u00edceis de ser percebidas no tr\u00e2nsito pelos motoristas; portanto, um comportamento considerado inadequado por parte do condutor do ve\u00edculo \u00e9",
+        "opcoes": {
+            "A": "A) mudar bruscamente de faixa sem utiliza\u00e7\u00e3o da seta; afinal, a prefer\u00eancia \u00e9 sempre dos carros",
+            "B": "B) prestar aten\u00e7\u00e3o ao ru\u00eddo do motor ou \u00e0 luz do farol das motos antes de mudar de faixa ou de dire\u00e7\u00e3o na via",
+            "C": "C) observar constantemente a presen\u00e7a de motos, utilizando os espelhos retrovisores interno e externos",
+            "D": "D) sinalizar com anteced\u00eancia sua inten\u00e7\u00e3o de mudar de faixa, al\u00e9m de olhar nos espelhos retrovisores"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Aproximando-se de uma curva acentuada \u00e0 direita, para evitar a invas\u00e3o da pista contr\u00e1ria, devido \u00e0 a\u00e7\u00e3o da for\u00e7a centr\u00edfuga, um motorista defensivo dever\u00e1 manter-se \u00e0 direita e:",
+        "opcoes": {
+            "A": "A) acelerar o ve\u00edculo antes da curva",
+            "B": "B) reduzir a velocidade no meio da curva, usando o freio",
+            "C": "C) aumentar a velocidade em todo o trecho em curva",
+            "D": "D) diminuir a velocidade antes da curva"
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Dos tipos de colis\u00f5es estudados em Dire\u00e7\u00e3o Defensiva, qual envolve frequentemente somente um ve\u00edculo:",
+        "opcoes": {
+            "A": "A) colis\u00e3o com o ve\u00edculo da frente",
+            "B": "B) colis\u00e3o com o ve\u00edculo em sentido contr\u00e1rio",
+            "C": "C) colis\u00e3o com o ve\u00edculo de tr\u00e1s",
+            "D": "D) colis\u00e3o com objetos fixos"
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "A colis\u00e3o frontal pode ser muito grave, dependendo da velocidade, e ocorre com o ve\u00edculo:",
+        "opcoes": {
+            "A": "A) vindo por tr\u00e1s",
+            "B": "B) que est\u00e1 na frente",
+            "C": "C) que est\u00e1 parado",
+            "D": "D) em sentido contr\u00e1rio"
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Dire\u00e7\u00e3o defensiva - \u00e9 a dire\u00e7\u00e3o segura que evita acidentes apesar da imprud\u00eancia e imper\u00edcia dos outros condutores e das condi\u00e7\u00f5es desfavor\u00e1veis do tempo, da sinaliza\u00e7\u00e3o, da pista e etc. Marque a s\u00e9rie que apresenta todos os elementos componentes da \u201cDire\u00e7\u00e3o Defensiva\u201d.",
+        "opcoes": {
+            "A": "A) Observa\u00e7\u00e3o; aten\u00e7\u00e3o; decis\u00e3o e habilidade.",
+            "B": "B) Inten\u00e7\u00e3o; decis\u00e3o; organiza\u00e7\u00e3o.",
+            "C": "C) Conhecimento, aten\u00e7\u00e3o, previs\u00e3o, decis\u00e3o e habilidade.",
+            "D": "D) Condu\u00e7\u00e3o; aten\u00e7\u00e3o; conhecimento e rapidez."
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Para que n\u00e3o ocorra a aquaplanagem ao passar sobre po\u00e7as d\u2019\u00e1gua, o condutor deve",
+        "opcoes": {
+            "A": "A) reduzir a velocidade e usar apenas o freio motor",
+            "B": "B) frear com intensidade e acelerar o ve\u00edculo",
+            "C": "C) acelerar o ve\u00edculo para ganhar ader\u00eancia",
+            "D": "D) manter a velocidade e frear com intensidade"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "S\u00e3o condi\u00e7\u00f5es necess\u00e1rias para um condutor demonstrar que dirige com seguran\u00e7a, entre outros fatores",
+        "opcoes": {
+            "A": "A) conhecimento da legisla\u00e7\u00e3o e agressividade ao volante",
+            "B": "B) aud\u00e1cia e habilidade com o ve\u00edculo",
+            "C": "C) prud\u00eancia e habilidade com o ve\u00edculo",
+            "D": "D) conhecimento de mec\u00e2nica veicular e ousadia"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "O condutor adota uma atitude preventiva e torna mais seguro o tr\u00e2nsito quando",
+        "opcoes": {
+            "A": "A) atravessa o sinal do sem\u00e1foro fechado com cautela para evitar colis\u00f5es ou atropelamentos",
+            "B": "B) para o ve\u00edculo na pista ap\u00f3s uma curva fechada e posiciona o tri\u00e2ngulo pr\u00f3ximo ao ve\u00edculo",
+            "C": "C) fica atento ao movimento de pedestres atravessando ou andando na pista de rolamento",
+            "D": "D) buzina de forma estridente ao se aproximar de ciclista \u00e0 sua frente para evitar atropelamento"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Aprender os conceitos da dire\u00e7\u00e3o defensiva e usar estes conhecimentos com efici\u00eancia exige que o motorista",
+        "opcoes": {
+            "A": "A) dirija com cautela adotando os cuidados necess\u00e1rios quando n\u00e3o respeitar uma regra de tr\u00e2nsito",
+            "B": "B) reconhe\u00e7a que os acidentes acontecem por acaso, por obra do destino ou por azar, independentemente da sua a\u00e7\u00e3o",
+            "C": "C) cuide apenas de si para evitar acidentes, j\u00e1 que os demais condutores devem cuidar de si mesmos",
+            "D": "D) dirija sempre com aten\u00e7\u00e3o para poder prever o que fazer e tomar as decis\u00f5es certas para evitar acidentes"
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Entre outras atitudes a favor da seguran\u00e7a, pode-se dizer que o condutor que pratica a dire\u00e7\u00e3o defensiva \u00e9 aquele que",
+        "opcoes": {
+            "A": "A) ultrapassa os ve\u00edculos lentos, utilizando excepcionalmente o acostamento para andar mais r\u00e1pido",
+            "B": "B) mant\u00e9m-se atento ao comportamento dos demais condutores e usu\u00e1rios do tr\u00e2nsito",
+            "C": "C) desce um trecho de via em declive, com o ve\u00edculo desengrenado, economizando combust\u00edvel",
+            "D": "D) usa, sob chuva, a luz alta do ve\u00edculo e mant\u00e9m dist\u00e2ncia de seguimento do ve\u00edculo \u00e0 sua frente"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Em uma rodovia, ao perceber movimentos na vegeta\u00e7\u00e3o, indicando a exist\u00eancia de forte vento lateral, o recomend\u00e1vel \u00e9",
+        "opcoes": {
+            "A": "A) reduzir a velocidade, ligar a seta indicativa de mudan\u00e7a de dire\u00e7\u00e3o e transitar pelo acostamento",
+            "B": "B) reduzir a velocidade adequando a marcha do motor para manter a estabilidade",
+            "C": "C) acelerar, aumentando a for\u00e7a do motor e for\u00e7ando um maior atrito entre os pneus e a pista",
+            "D": "D) manter a velocidade e segurar o volante levemente, a fim de reduzir o risco de capotagem"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Entende-se por ''condi\u00e7\u00f5es adversas''",
+        "opcoes": {
+            "A": "A) situa\u00e7\u00f5es inadequadas geradas exclusivamente pelas autoridades de tr\u00e2nsito e que podem causar acidentes",
+            "B": "B) condi\u00e7\u00f5es pessoais do condutor ou fora do seu controle que podem ser causa de acidentes",
+            "C": "C) condi\u00e7\u00f5es geradoras de risco e acidentes de tr\u00e2nsito totalmente fora do controle do condutor",
+            "D": "D) situa\u00e7\u00f5es normais no tr\u00e2nsito que, por distra\u00e7\u00e3o do condutor, podem gerar risco e at\u00e9 acidentes"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Quando estiver transitando \u00e0 noite em uma via n\u00e3o iluminada, com tr\u00e1fego de ve\u00edculos nos dois sentidos, o condutor dever\u00e1 usar a luz baixa do ve\u00edculo. Esse procedimento \u00e9",
+        "opcoes": {
+            "A": "A) incorreto, pois o mais seguro \u00e9 utilizar luz alta para aumentar a visibilidade do condutor e dos motoristas dos demais ve\u00edculos, reduzindo assim o risco de acidente",
+            "B": "B) adequado, pois a luz alta pode ofuscar os olhos dos condutores nos dois sentidos de tr\u00e1fego e aumentar o risco de acidente",
+            "C": "C) arriscado, pois esse procedimento poder\u00e1 ofuscar os olhos dos condutores nos dois sentidos de tr\u00e1fego e aumentar o risco de acidente",
+            "D": "D) incorreto, pois o recomend\u00e1vel para a seguran\u00e7a de todos \u00e9 a utiliza\u00e7\u00e3o apenas das luzes de posi\u00e7\u00e3o"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Em dire\u00e7\u00e3o defensiva, o elemento b\u00e1sico decis\u00e3o depende",
+        "opcoes": {
+            "A": "A) da habilidade, tempo e pr\u00e1tica de dire\u00e7\u00e3o; da previs\u00e3o das Situa\u00e7\u00e3o de Risco; e do conhecimento das condi\u00e7\u00f5es do ve\u00edculo e da via",
+            "B": "B) somente do tempo de experi\u00eancia do condutor",
+            "C": "C) somente das condi\u00e7\u00f5es do ve\u00edculo e da via",
+            "D": "D) da habilidade e da experi\u00eancia do condutor"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "S\u00e3o situa\u00e7\u00f5es de risco, devido a condi\u00e7\u00f5es adversas relacionadas com o clima e\/ou ambiente, os seguintes aspectos",
+        "opcoes": {
+            "A": "A) sinaliza\u00e7\u00e3o horizontal apagada e vegeta\u00e7\u00e3o obstruindo a sinaliza\u00e7\u00e3o vertical",
+            "B": "B) fuma\u00e7a produzida pela queima da vegeta\u00e7\u00e3o e ventos fortes",
+            "C": "C) curva acentuada n\u00e3o precedida de sinaliza\u00e7\u00e3o e chuva torrencial",
+            "D": "D) neblina intensa \u00e0 noite e pista com buracos, depress\u00f5es e asfalto deteriorado"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Estacionando o ve\u00edculo em r\u00e9, \u00e0 noite, em uma garagem escura, o risco de colis\u00e3o contra a parede pode aumentar devido \u00e0 falta de visibilidade caso estejam queimadas as l\u00e2mpadas dos(as)",
+        "opcoes": {
+            "A": "A) luzes de r\u00e9",
+            "B": "B) luzes de freio",
+            "C": "C) luzes de posi\u00e7\u00e3o",
+            "D": "D) far\u00f3is alto e baixo"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Para que n\u00e3o ocorra a aquaplanagem ao passar sobre po\u00e7as d\u2019\u00e1gua, o condutor deve",
+        "opcoes": {
+            "A": "A) reduzir a velocidade e usar apenas o freio motor",
+            "B": "B) frear com intensidade e acelerar o ve\u00edculo",
+            "C": "C) acelerar o ve\u00edculo para ganhar ader\u00eancia",
+            "D": "D) manter a velocidade e frear com intensidade"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Um condutor dirige pela primeira vez em uma rodovia de m\u00e3o dupla e est\u00e1 muito nervoso e inseguro, podendo se envolver em um acidente de tr\u00e2nsito. Essa \u00e9 uma condi\u00e7\u00e3o adversa relacionada com o(a)",
+        "opcoes": {
+            "A": "A) via",
+            "B": "B) clima e\/ou ambiente",
+            "C": "C) ve\u00edculo",
+            "D": "D) condutor"
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Antes da circula\u00e7\u00e3o do ve\u00edculo, o condutor dever\u00e1 verificar o bom funcionamento das luzes de",
+        "opcoes": {
+            "A": "A) far\u00f3is, freio e luzes internas, apenas",
+            "B": "B) far\u00f3is, freio e marcha \u00e0 r\u00e9, apenas",
+            "C": "C) far\u00f3is, freio, pisca-alerta, placa e indicadores de mudan\u00e7a de dire\u00e7\u00e3o e de marcha \u00e0 r\u00e9",
+            "D": "D) far\u00f3is, freio e pisca-alerta, apenas"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Quando o farol baixo de um ve\u00edculo que vem em sentido contr\u00e1rio ofusca os olhos do condutor com o qual ele cruza, \u00e9 sinal de que o ve\u00edculo apresenta",
+        "opcoes": {
+            "A": "A) falha no sistema de suspens\u00e3o",
+            "B": "B) pneus com calibragem baixa do lado direito do ve\u00edculo",
+            "C": "C) exist\u00eancia de l\u00e2mpada de luz baixa queimada",
+            "D": "D) falta de alinhamento e regulagem dos far\u00f3is"
+        },
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "S\u00e3o condi\u00e7\u00f5es necess\u00e1rias para um condutor demonstrar que dirige com seguran\u00e7a, entre outros fatores",
+        "opcoes": {
+            "A": "A) conhecimento da legisla\u00e7\u00e3o e agressividade ao volante",
+            "B": "B) aud\u00e1cia e habilidade com o ve\u00edculo",
+            "C": "C) prud\u00eancia e habilidade com o ve\u00edculo",
+            "D": "D) conhecimento de mec\u00e2nica veicular e ousadia"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "A incid\u00eancia de sol, ofuscando os olhos do condutor, reduz a visibilidade, o que pode ser respons\u00e1vel por um acidente. Essa \u00e9 uma condi\u00e7\u00e3o adversa relacionada com o(a)",
+        "opcoes": {
+            "A": "A) condutor",
+            "B": "B) ve\u00edculo",
+            "C": "C) luz",
+            "D": "D)  via"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "A dist\u00e2ncia percorrida do momento em que o freio \u00e9 acionado at\u00e9 a parada total do ve\u00edculo \u00e9 chamada de",
+        "opcoes": {
+            "A": "A) dist\u00e2ncia de percep\u00e7\u00e3o",
+            "B": "B) dist\u00e2ncia de seguimento",
+            "C": "C) dist\u00e2ncia de frenagem",
+            "D": "D) dist\u00e2ncia de rea\u00e7\u00e3o"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "A dist\u00e2ncia percorrida pelo ve\u00edculo do momento em que o condutor tira o p\u00e9 do acelerador e o coloca sobre o pedal do freio \u00e9 denominada",
+        "opcoes": {
+            "A": "A) dist\u00e2ncia de rea\u00e7\u00e3o",
+            "B": "B) dist\u00e2ncia de frenagem",
+            "C": "C) dist\u00e2ncia de seguimento",
+            "D": "D) dist\u00e2ncia de parada"
+        },
+        "resposta_correta": "A"
+    }
+]
